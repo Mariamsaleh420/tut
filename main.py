@@ -8,7 +8,7 @@ app.include_router(blog_post.router)
 
 @app.get('/')
 def index():
-    return {'msg':' hello there'}
+    return {'msg':' مرحبا بكم فالجحيم '}
 
 
 
